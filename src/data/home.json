@@ -1,0 +1,35 @@
+[
+    {
+        "slider": [
+            {
+                "id": 1,
+                "backgroundImage": "/img/hero-slider/hero2.jpg",
+                "title": "Portreti sa Dušom",
+                "subTitle": "Lssadora Photography",
+                "desc": "Svaki portret nosi priču, svaki izraz govori hiljadu riječi.",
+                "buttonText": "Više o nama"
+            },
+            {
+                "id": 2,
+                "backgroundImage": "/img/hero-slider/hero1.jpg",
+                "title": "Igra Boja i Emocija",
+                "subTitle": "Lssadora Photography",
+                "desc": "U našoj kolekciji, priroda postaje paleta emocija, a boje postaju jezik izraza.",
+                "buttonText": "Više o nama"
+            },
+            {
+                "id": 3,
+                "backgroundImage": "/img/hero-slider/hero3.jpg",
+                "title": "Putovanje Kroz Vrijeme i Priče",
+                "subTitle": "Lssadora Photography",
+                "desc": "Vodimo Vas na putovanje kroz vrijeme, gdje svaka slika predstavlja stranicu uzbudljive priče.",
+                "buttonText": "Više o nama"
+            }
+        ]
+    },
+    {
+        "qute": "Dobrodošli na Lssadora Photography, mjesto gdje se umjetnost i trenuci susreću kroz objektiv strastvenog fotografa. Želimo vam dobrodošlicu u svijet vizuelne poezije i nezaboravnih trenutaka snimljenih objektivom našeg fotoaparata."
+        
+        
+    }
+]

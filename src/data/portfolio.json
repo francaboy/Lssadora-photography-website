@@ -1,0 +1,524 @@
+[
+    {
+        "id": 1,
+        "type": "image",
+        "homeImage": "img/portfolio/portfolio-1.jpg",
+        "title": "Naziv događaja",
+        "excerpt": "Kratki opis",
+        "categories": ["najnovije", "popularno"],
+        "client": "Archo Architecture <br />Bureau, SG",
+        "date": "September 25th <br />2020",
+        "team": "Nindia H. - Editor <br />Kate E. - Photographer",
+        "services": "Natural, Studio, Commercial, <br />Portrait",
+        "body": [
+            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 2,
+        "type": "image",
+        "homeImage": "img/portfolio/portfolio-2.jpg",
+        "title": "Naziv događaja",
+        "excerpt": "Kratki opis",
+        "categories": ["vjenčanja", "proslave"],
+        "client": "Archo Architecture <br />Bureau, SG",
+        "date": "September 25th <br />2020",
+        "team": "Nindia H. - Editor <br />Kate E. - Photographer",
+        "services": "Natural, Studio, Commercial, <br />Portrait",
+        "body": [
+            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 3,
+        "type": "video",
+        "homeImage": "img/portfolio/portfolio-3.jpg",
+        "videoUrl": "https://www.youtube.com/embed/KzhSW1Ztq1w",
+        "title": "Naziv događaja",
+        "excerpt": "Kratki opis",
+        "categories": ["koncerti", "događaji"],
+        "client": "Archo Architecture <br />Bureau, SG",
+        "date": "September 25th <br />2020",
+        "team": "Nindia H. - Editor <br />Kate E. - Photographer",
+        "services": "Natural, Studio, Commercial, <br />Portrait",
+        "body": [
+            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 4,
+        "type": "image",
+        "homeImage": "img/portfolio/portfolio-4.jpg",
+        "title": "Naziv događaja",
+        "excerpt": "Kratki opis",
+        "categories": ["izložbe"],
+        "client": "Archo Architecture <br />Bureau, SG",
+        "date": "September 25th <br />2020",
+        "team": "Nindia H. - Editor <br />Kate E. - Photographer",
+        "services": "Natural, Studio, Commercial, <br />Portrait",
+        "body": [
+            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 5,
+        "type": "image",
+        "homeImage": "img/portfolio/portfolio-5.jpg",
+        "title": "Naziv događaja",
+        "excerpt": "Kratki opis",
+        "categories": ["popularno", "događaji"],
+        "client": "Archo Architecture <br />Bureau, SG",
+        "date": "September 25th <br />2020",
+        "team": "Nindia H. - Editor <br />Kate E. - Photographer",
+        "services": "Natural, Studio, Commercial, <br />Portrait",
+        "body": [
+            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 6,
+        "type": "image",
+        "homeImage": "img/portfolio/portfolio-7.jpg",
+        "title": "Naziv događaja",
+        "excerpt": "Kratki opis",
+        "categories": ["koncerti", "proslave"],
+        "client": "Archo Architecture <br />Bureau, SG",
+        "date": "September 25th <br />2020",
+        "team": "Nindia H. - Editor <br />Kate E. - Photographer",
+        "services": "Natural, Studio, Commercial, <br />Portrait",
+        "body": [
+            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 7,
+        "type": "image",
+        "homeImage": "img/portfolio/portfolio-8.jpg",
+        "title": "Naziv događaja",
+        "excerpt": "Kratki opis",
+        "categories": ["izložbe", "najnovije"],
+        "client": "Archo Architecture <br />Bureau, SG",
+        "date": "September 25th <br />2020",
+        "team": "Nindia H. - Editor <br />Kate E. - Photographer",
+        "services": "Natural, Studio, Commercial, <br />Portrait",
+        "body": [
+            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 8,
+        "type": "image",
+        "homeImage": "img/portfolio/portfolio-6.jpg",
+        "title": "Naziv događaja",
+        "excerpt": "Kratki opis",
+        "categories": ["popularno", "najnovije"],
+        "client": "Archo Architecture <br />Bureau, SG",
+        "date": "September 25th <br />2020",
+        "team": "Nindia H. - Editor <br />Kate E. - Photographer",
+        "services": "Natural, Studio, Commercial, <br />Portrait",
+        "body": [
+            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 9,
+        "type": "image",
+        "homeImage": "img/portfolio/portfolio-9.jpg",
+        "title": "Naziv događaja",
+        "excerpt": "Kratki opis",
+        "categories": ["najnovije", "koncerti"],
+        "client": "Archo Architecture <br />Bureau, SG",
+        "date": "September 25th <br />2020",
+        "team": "Nindia H. - Editor <br />Kate E. - Photographer",
+        "services": "Natural, Studio, Commercial, <br />Portrait",
+        "body": [
+            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 10,
+        "type": "image",
+        "homeImage": "img/portfolio/portfolio-10.jpg",
+        "title": "Naziv događaja",
+        "excerpt": "Kratki opis",
+        "categories": ["najnovije", "koncerti"],
+        "client": "Archo Architecture <br />Bureau, SG",
+        "date": "September 25th <br />2020",
+        "team": "Nindia H. - Editor <br />Kate E. - Photographer",
+        "services": "Natural, Studio, Commercial, <br />Portrait",
+        "body": [
+            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    }, {
+        "id": 11,
+        "type": "image",
+        "homeImage": "img/portfolio/portfolio-11.jpg",
+        "title": "Naziv događaja",
+        "excerpt": "Kratki opis",
+        "categories": ["najnovije", "koncerti"],
+        "client": "Archo Architecture <br />Bureau, SG",
+        "date": "September 25th <br />2020",
+        "team": "Nindia H. - Editor <br />Kate E. - Photographer",
+        "services": "Natural, Studio, Commercial, <br />Portrait",
+        "body": [
+            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    }, 
+    
+    {
+        "id": 13,
+        "type": "image",
+        "homeImage": "img/portfolio/portfolio-12.jpg",
+        "title": "Naziv događaja",
+        "excerpt": "Kratki opis",
+        "categories": ["najnovije", "koncerti"],
+        "client": "Archo Architecture <br />Bureau, SG",
+        "date": "September 25th <br />2020",
+        "team": "Nindia H. - Editor <br />Kate E. - Photographer",
+        "services": "Natural, Studio, Commercial, <br />Portrait",
+        "body": [
+            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    }, 
+    
+    {
+        "id": 14,
+        "type": "image",
+        "homeImage": "img/portfolio/portfolio-13.jpg",
+        "title": "Naziv događaja",
+        "excerpt": "Kratki opis",
+        "categories": ["najnovije", "koncerti"],
+        "client": "Archo Architecture <br />Bureau, SG",
+        "date": "September 25th <br />2020",
+        "team": "Nindia H. - Editor <br />Kate E. - Photographer",
+        "services": "Natural, Studio, Commercial, <br />Portrait",
+        "body": [
+            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    }, 
+    
+    {
+        "id": 15,
+        "type": "image",
+        "homeImage": "img/portfolio/portfolio-14.jpg",
+        "title": "Naziv događaja",
+        "excerpt": "Kratki opis",
+        "categories": ["najnovije", "koncerti"],
+        "client": "Archo Architecture <br />Bureau, SG",
+        "date": "September 25th <br />2020",
+        "team": "Nindia H. - Editor <br />Kate E. - Photographer",
+        "services": "Natural, Studio, Commercial, <br />Portrait",
+        "body": [
+            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    }, 
+    
+    {
+        "id": 16,
+        "type": "image",
+        "homeImage": "img/portfolio/portfolio-15.jpg",
+        "title": "Naziv događaja",
+        "excerpt": "Kratki opis",
+        "categories": ["najnovije", "koncerti"],
+        "client": "Archo Architecture <br />Bureau, SG",
+        "date": "September 25th <br />2020",
+        "team": "Nindia H. - Editor <br />Kate E. - Photographer",
+        "services": "Natural, Studio, Commercial, <br />Portrait",
+        "body": [
+            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    }, 
+    
+    {
+        "id": 17,
+        "type": "image",
+        "homeImage": "img/portfolio/portfolio-16.jpg",
+        "title": "Naziv događaja",
+        "excerpt": "Kratki opis",
+        "categories": ["najnovije", "koncerti"],
+        "client": "Archo Architecture <br />Bureau, SG",
+        "date": "September 25th <br />2020",
+        "team": "Nindia H. - Editor <br />Kate E. - Photographer",
+        "services": "Natural, Studio, Commercial, <br />Portrait",
+        "body": [
+            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    }
+    , 
+    
+    {
+        "id": 18,
+        "type": "image",
+        "homeImage": "img/portfolio/portfolio-17.jpg",
+        "title": "Naziv događaja",
+        "excerpt": "Kratki opis",
+        "categories": ["najnovije", "koncerti"],
+        "client": "Archo Architecture <br />Bureau, SG",
+        "date": "September 25th <br />2020",
+        "team": "Nindia H. - Editor <br />Kate E. - Photographer",
+        "services": "Natural, Studio, Commercial, <br />Portrait",
+        "body": [
+            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    }, 
+    
+    {
+        "id": 19,
+        "type": "image",
+        "homeImage": "img/portfolio/portfolio-18.jpg",
+        "title": "Naziv događaja",
+        "excerpt": "Kratki opis",
+        "categories": ["najnovije", "koncerti"],
+        "client": "Archo Architecture <br />Bureau, SG",
+        "date": "September 25th <br />2020",
+        "team": "Nindia H. - Editor <br />Kate E. - Photographer",
+        "services": "Natural, Studio, Commercial, <br />Portrait",
+        "body": [
+            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    }, 
+    
+    {
+        "id": 20,
+        "type": "image",
+        "homeImage": "img/portfolio/portfolio-19.jpg",
+        "title": "Naziv događaja",
+        "excerpt": "Kratki opis",
+        "categories": ["najnovije", "koncerti"],
+        "client": "Archo Architecture <br />Bureau, SG",
+        "date": "September 25th <br />2020",
+        "team": "Nindia H. - Editor <br />Kate E. - Photographer",
+        "services": "Natural, Studio, Commercial, <br />Portrait",
+        "body": [
+            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    }
+]

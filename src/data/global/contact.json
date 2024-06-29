@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "delay": "300",
+        "title": "Kontakt",
+        "icon": "icon_mail_alt",
+        "info": "<a href='mailto:diarte.photography@gmail.com'>diarte.photography@gmail.com</a>"
+    },
+    {
+        "id": 2,
+        "aos-delay": "600",
+        "title": "Telefon",
+        "icon": "icon_phone",
+        "info": "<p>+387 65 209 445</p>"
+    },
+    {
+        "id": 3,
+        "aos-delay": "900",
+        "title": "Adresa",
+        "icon": "icon_pin_alt",
+        "info": "<p>Banja Luka, 78000, BiH</p>"
+    }
+]
